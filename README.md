@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![alt text](/assets/banner.png "Title")
+![alt text](/assets/banner-min.png "Title")
 <!--
 **ArshMalik02/ArshMalik02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
