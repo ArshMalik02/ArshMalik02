@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -  💬 Pronouns: He/Him
 -  👨‍💻 Rising third-year computer science student at [UCLA Samueli Computer Science](https://www.cs.ucla.edu/)
 -  🥳 Leading a group of 15 exceptional [software developers](https://www.uclaacm.com/dev) at [ACM at UCLA](https://www.uclaacm.com/) as the Dev Team Director
--  👀 Managing the engineering team for a stealth startup at [UCLA DevX](https://linktr.ee/ucladevx)
+-  👀 Managed the engineering team for a stealth startup at [UCLA DevX](https://linktr.ee/ucladevx)
 -  ✅ Interned at [Syncari](https://syncari.com/) as a Backend Software Engineer in Summer 22
 -  💡 Interested in full stack software development, ML applications, Quantum Computing, and open source software development (ACM at UCLA is [open source!](https://opensource.uclaacm.com/))
 -  🔭 Currently looking for Summer 2024 Software Engineering Internships
