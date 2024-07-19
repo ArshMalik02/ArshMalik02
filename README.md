@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-### A bit (no pun intended 😇) about me...
+### A ~qu~bit about me...
 -  💬 Pronouns: He/Him
--  👨‍💻 Rising third-year computer science student at [UCLA Samueli Computer Science](https://www.cs.ucla.edu/)
--  🥳 Leading a group of 15 exceptional [software developers](https://www.uclaacm.com/dev) at [ACM at UCLA](https://www.uclaacm.com/) as the Dev Team Director
+-  🎓 Rising senior computer science student at [UCLA Samueli Computer Science](https://www.cs.ucla.edu/)
+-  🔬 Undergraduate Quantum Computing researcher in [Palsberg's Lab](https://web.cs.ucla.edu/~palsberg/) doing some cool stuff
+-  👨‍💻 Interning at [Givaudan](https://www.givaudan.com/) in the Digitized Taste research team empowering flavor and fragrance creation with state-of-the-art technology
+-  🥳 Led a group of 15 exceptional [software developers](https://www.uclaacm.com/dev) at [ACM at UCLA](https://www.uclaacm.com/) as the Dev Team Director, continuing as an advisor
 -  👀 Managed the engineering team for a stealth startup at [UCLA DevX](https://linktr.ee/ucladevx)
--  ✅ Interned at [Syncari](https://syncari.com/) as a Backend Software Engineer in Summer 22
+-  ✅ Interned at [Syncari](https://syncari.com/) as a Backend Software Engineer [Summer 22]
 -  💡 Interested in full stack software development, ML applications, Quantum Computing, and open source software development (ACM at UCLA is [open source!](https://opensource.uclaacm.com/))
--  🔭 Currently looking for Summer 2024 Software Engineering Internships
+-  🔭 Currently looking for Summer 2025 Internships
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arsh-malik/), [Email](mailto:arshmalik02@gmail.com)
 
 ### Technical Skills
