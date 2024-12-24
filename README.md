@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -  💬 Pronouns: He/Him
 -  🎓 Rising senior computer science student at [UCLA Samueli Computer Science](https://www.cs.ucla.edu/)
 -  🔬 Undergraduate Quantum Computing researcher in [Palsberg's Lab](https://web.cs.ucla.edu/~palsberg/) doing some cool stuff
--  👨‍💻 Interning at [Givaudan](https://www.givaudan.com/) in the Digitized Taste research team empowering flavor and fragrance creation with state-of-the-art technology
+-  👨‍💻 Interned at [Givaudan](https://www.givaudan.com/) in the Digitized Taste research team empowering flavor and fragrance creation with state-of-the-art technology
 -  🥳 Led a group of 15 exceptional [software developers](https://www.uclaacm.com/dev) at [ACM at UCLA](https://www.uclaacm.com/) as the Dev Team Director, continuing as an advisor
 -  👀 Managed the engineering team for a stealth startup at [UCLA DevX](https://linktr.ee/ucladevx)
 -  ✅ Interned at [Syncari](https://syncari.com/) as a Backend Software Engineer [Summer 22]
